@@ -1,0 +1,23 @@
+{
+  "name": "meteor-fullreact",
+  "version": "0.0.0",
+  "authors": [
+    "contact@purepattern.com"
+  ],
+  "keywords": [
+    "meteor",
+    "fullreact"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "class.js": "~1.0.0"
+  }
+}
